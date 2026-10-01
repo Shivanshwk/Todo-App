@@ -1,0 +1,21 @@
+
+input{
+  width: 100%;
+}
+
+.container{
+  text-align: left;
+}
+
+.myRow{
+  margin: 10px 5px;
+}
+
+.myButton{
+   min-width: 80px;
+}
+
+.myButton1{
+   min-width: 80px;
+   background-color: red;
+}
